@@ -3,7 +3,7 @@
     {
       "name": "Friend-944",
       "id": "2603305",
-      "pictureurl": "https://graph.facebook.com/2603305/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Giant George",
@@ -299,14 +299,14 @@
     {
       "name": "Friend-299",
       "id": "13302471",
-      "pictureurl": "https://graph.facebook.com/13302471/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-299",
       "id": "14502986",
-      "pictureurl": "https://graph.facebook.com/14502986/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Baker Skateboards",
@@ -506,7 +506,7 @@
     {
       "name": "Friend-885",
       "id": "40301998",
-      "pictureurl": "https://graph.facebook.com/40301998/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Stefani Marie Photography",
@@ -826,7 +826,7 @@
     {
       "name": "Friend-993",
       "id": "52300152",
-      "pictureurl": "https://graph.facebook.com/52300152/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Lisa's 2013 Photo Journey",
@@ -3130,14 +3130,14 @@
     {
       "name": "Friend-101",
       "id": "52300287",
-      "pictureurl": "https://graph.facebook.com/52300287/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-101",
       "id": "52300558",
-      "pictureurl": "https://graph.facebook.com/52300558/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Glass Rediscovered",
@@ -3985,14 +3985,14 @@
     {
       "name": "Friend-686",
       "id": "52301849",
-      "pictureurl": "https://graph.facebook.com/52301849/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-686",
       "id": "52303018",
-      "pictureurl": "https://graph.facebook.com/52303018/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Chapelle Hannig",
@@ -4064,7 +4064,7 @@
     {
       "name": "Friend-435",
       "id": "52304388",
-      "pictureurl": "https://graph.facebook.com/52304388/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Solitude Homes Inc.",
@@ -4264,7 +4264,7 @@
     {
       "name": "Friend-184",
       "id": "52305055",
-      "pictureurl": "https://graph.facebook.com/52305055/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Class Fitness",
@@ -4360,14 +4360,14 @@
     {
       "name": "Friend-934",
       "id": "52305246",
-      "pictureurl": "https://graph.facebook.com/52305246/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-934",
       "id": "52305697",
-      "pictureurl": "https://graph.facebook.com/52305697/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Brewing Network",
@@ -4687,7 +4687,7 @@
     {
       "name": "Friend-878",
       "id": "52305731",
-      "pictureurl": "https://graph.facebook.com/52305731/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Tommy Boy",
@@ -4855,7 +4855,7 @@
     {
       "name": "Friend-986",
       "id": "52306599",
-      "pictureurl": "https://graph.facebook.com/52306599/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Doma Coffee Roasting Company",
@@ -6431,7 +6431,7 @@
     {
       "name": "Friend-735",
       "id": "52306702",
-      "pictureurl": "https://graph.facebook.com/52306702/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Sheldon Cooper",
@@ -7031,7 +7031,7 @@
     {
       "name": "Friend-484",
       "id": "67701136",
-      "pictureurl": "https://graph.facebook.com/67701136/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "University of Washington Department of Medicine",
@@ -7151,7 +7151,7 @@
     {
       "name": "Friend-233",
       "id": "138100033",
-      "pictureurl": "https://graph.facebook.com/138100033/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "I Love Boxers",
@@ -7831,28 +7831,28 @@
     {
       "name": "Friend-983",
       "id": "143700033",
-      "pictureurl": "https://graph.facebook.com/143700033/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-983",
       "id": "143700062",
-      "pictureurl": "https://graph.facebook.com/143700062/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-983",
       "id": "143700071",
-      "pictureurl": "https://graph.facebook.com/143700071/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-983",
       "id": "143700081",
-      "pictureurl": "https://graph.facebook.com/143700081/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Honor Flight Network",
@@ -8484,7 +8484,7 @@
     {
       "name": "Friend-91",
       "id": "143700263",
-      "pictureurl": "https://graph.facebook.com/143700263/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Crooked Fence Brewing",
@@ -9308,7 +9308,7 @@
     {
       "name": "Friend-35",
       "id": "143700287",
-      "pictureurl": "https://graph.facebook.com/143700287/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Romano's Macaroni Grill",
@@ -9564,7 +9564,7 @@
     {
       "name": "Friend-784",
       "id": "143700320",
-      "pictureurl": "https://graph.facebook.com/143700320/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Alli Villa Photography",
@@ -9996,7 +9996,7 @@
     {
       "name": "Friend-370",
       "id": "143700382",
-      "pictureurl": "https://graph.facebook.com/143700382/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Alli Villa Photography",
@@ -10260,7 +10260,7 @@
     {
       "name": "Friend-119",
       "id": "143700587",
-      "pictureurl": "https://graph.facebook.com/143700587/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Barry Lyndon",
@@ -10780,7 +10780,7 @@
     {
       "name": "Friend-586",
       "id": "143700653",
-      "pictureurl": "https://graph.facebook.com/143700653/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Jenna King Real Estate",
@@ -10852,7 +10852,7 @@
     {
       "name": "Friend-335",
       "id": "183900206",
-      "pictureurl": "https://graph.facebook.com/183900206/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Ball Don't Lie",
@@ -11540,7 +11540,7 @@
     {
       "name": "Friend-920",
       "id": "507869850",
-      "pictureurl": "https://graph.facebook.com/507869850/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Morgan Hollis Images",
@@ -12004,7 +12004,7 @@
     {
       "name": "Friend-670",
       "id": "513681870",
-      "pictureurl": "https://graph.facebook.com/513681870/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Shawshank Redemption",
@@ -16468,14 +16468,14 @@
     {
       "name": "Friend-778",
       "id": "537728923",
-      "pictureurl": "https://graph.facebook.com/537728923/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-778",
       "id": "543082334",
-      "pictureurl": "https://graph.facebook.com/543082334/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Chris Costa",
@@ -17115,7 +17115,7 @@
     {
       "name": "Friend-527",
       "id": "550322325",
-      "pictureurl": "https://graph.facebook.com/550322325/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "EDMTunes",
@@ -17235,7 +17235,7 @@
     {
       "name": "Friend-276",
       "id": "553485457",
-      "pictureurl": "https://graph.facebook.com/553485457/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Corral Lounge",
@@ -17715,14 +17715,14 @@
     {
       "name": "Friend-25",
       "id": "567735408",
-      "pictureurl": "https://graph.facebook.com/567735408/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-25",
       "id": "569844881",
-      "pictureurl": "https://graph.facebook.com/569844881/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Shane Cotee",
@@ -18130,7 +18130,7 @@
     {
       "name": "Friend-774",
       "id": "584648268",
-      "pictureurl": "https://graph.facebook.com/584648268/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "dreamboard",
@@ -22418,7 +22418,7 @@
     {
       "name": "Friend-360",
       "id": "632436693",
-      "pictureurl": "https://graph.facebook.com/632436693/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Zildjian Company",
@@ -23218,7 +23218,7 @@
     {
       "name": "Friend-468",
       "id": "635202098",
-      "pictureurl": "https://graph.facebook.com/635202098/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Cutter's Grand BBQ",
@@ -23770,7 +23770,7 @@
     {
       "name": "Friend-217",
       "id": "646487590",
-      "pictureurl": "https://graph.facebook.com/646487590/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "VTD Sports",
@@ -24002,7 +24002,7 @@
     {
       "name": "Friend-966",
       "id": "663025819",
-      "pictureurl": "https://graph.facebook.com/663025819/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Kruger's Farm",
@@ -24034,7 +24034,7 @@
     {
       "name": "Friend-715",
       "id": "672618447",
-      "pictureurl": "https://graph.facebook.com/672618447/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Chris Smith - Speaker, Blogger, Consultant",
@@ -24410,7 +24410,7 @@
     {
       "name": "Friend-823",
       "id": "700983628",
-      "pictureurl": "https://graph.facebook.com/700983628/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "North Idaho College Women's Basketball",
@@ -27010,7 +27010,7 @@
     {
       "name": "Friend-768",
       "id": "707209147",
-      "pictureurl": "https://graph.facebook.com/707209147/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Piper Stone - The Painting Bulldog",
@@ -28314,14 +28314,14 @@
     {
       "name": "Friend-517",
       "id": "733964557",
-      "pictureurl": "https://graph.facebook.com/733964557/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-517",
       "id": "762875318",
-      "pictureurl": "https://graph.facebook.com/762875318/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Kashi",
@@ -29881,7 +29881,7 @@
     {
       "name": "Friend-266",
       "id": "788198265",
-      "pictureurl": "https://graph.facebook.com/788198265/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Dice Candies",
@@ -31089,7 +31089,7 @@
     {
       "name": "Friend-15",
       "id": "901630436",
-      "pictureurl": "https://graph.facebook.com/901630436/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Powder Magazine",
@@ -32305,7 +32305,7 @@
     {
       "name": "Friend-764",
       "id": "1041276371",
-      "pictureurl": "https://graph.facebook.com/1041276371/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Cloth Diaper Addiction",
@@ -44545,7 +44545,7 @@
     {
       "name": "Friend-155",
       "id": "1044947064",
-      "pictureurl": "https://graph.facebook.com/1044947064/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "AppsonFB.com",
@@ -44689,7 +44689,7 @@
     {
       "name": "Friend-263",
       "id": "1113736003",
-      "pictureurl": "https://graph.facebook.com/1113736003/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Funny Or Die",
@@ -44745,7 +44745,7 @@
     {
       "name": "Friend-653",
       "id": "1133970005",
-      "pictureurl": "https://graph.facebook.com/1133970005/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Fun Size Movie",
@@ -44897,7 +44897,7 @@
     {
       "name": "Friend-761",
       "id": "1171512428",
-      "pictureurl": "https://graph.facebook.com/1171512428/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Stemage",
@@ -45913,7 +45913,7 @@
     {
       "name": "Friend-510",
       "id": "1200058096",
-      "pictureurl": "https://graph.facebook.com/1200058096/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Tablet Hotels",
@@ -48897,14 +48897,14 @@
     {
       "name": "Friend-259",
       "id": "1200498694",
-      "pictureurl": "https://graph.facebook.com/1200498694/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-259",
       "id": "1200917020",
-      "pictureurl": "https://graph.facebook.com/1200917020/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Start Kellen Moore",
@@ -49528,7 +49528,7 @@
     {
       "name": "Friend-9",
       "id": "1204502762",
-      "pictureurl": "https://graph.facebook.com/1204502762/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Brewforia Eagle, ID",
@@ -49768,7 +49768,7 @@
     {
       "name": "Friend-758",
       "id": "1217208709",
-      "pictureurl": "https://graph.facebook.com/1217208709/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Shell",
@@ -50624,7 +50624,7 @@
     {
       "name": "Friend-343",
       "id": "1218058211",
-      "pictureurl": "https://graph.facebook.com/1218058211/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Gangsta Party",
@@ -50664,7 +50664,7 @@
     {
       "name": "Friend-92",
       "id": "1229051701",
-      "pictureurl": "https://graph.facebook.com/1229051701/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Garth Brooks",
@@ -51112,7 +51112,7 @@
     {
       "name": "Friend-842",
       "id": "1275702537",
-      "pictureurl": "https://graph.facebook.com/1275702537/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "In Memory of Brian Kohl",
@@ -51736,14 +51736,14 @@
     {
       "name": "Friend-591",
       "id": "1294964737",
-      "pictureurl": "https://graph.facebook.com/1294964737/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-591",
       "id": "1318486437",
-      "pictureurl": "https://graph.facebook.com/1318486437/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Tea Party",
@@ -52015,7 +52015,7 @@
     {
       "name": "Friend-340",
       "id": "1319499919",
-      "pictureurl": "https://graph.facebook.com/1319499919/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Northwest Nazarene University - Master of Business Administration (MBA)",
@@ -52231,21 +52231,21 @@
     {
       "name": "Friend-448",
       "id": "1342997869",
-      "pictureurl": "https://graph.facebook.com/1342997869/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-448",
       "id": "1353481912",
-      "pictureurl": "https://graph.facebook.com/1353481912/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-807",
       "id": "1392430834",
-      "pictureurl": "https://graph.facebook.com/1392430834/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Folgers",
@@ -55909,7 +55909,7 @@
     {
       "name": "Friend-197",
       "id": "1402909527",
-      "pictureurl": "https://graph.facebook.com/1402909527/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Barack Obama",
@@ -56053,7 +56053,7 @@
     {
       "name": "Friend-946",
       "id": "1422885275",
-      "pictureurl": "https://graph.facebook.com/1422885275/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Roland U.S.",
@@ -56821,7 +56821,7 @@
     {
       "name": "Friend-249",
       "id": "1460385546",
-      "pictureurl": "https://graph.facebook.com/1460385546/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Hobbit",
@@ -57373,7 +57373,7 @@
     {
       "name": "Friend-640",
       "id": "1465642140",
-      "pictureurl": "https://graph.facebook.com/1465642140/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "JVC Mobile Entertainment",
@@ -58221,7 +58221,7 @@
     {
       "name": "Friend-748",
       "id": "1504343902",
-      "pictureurl": "https://graph.facebook.com/1504343902/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Pet Nurse Marie /  Free Q & A service:",
@@ -58997,7 +58997,7 @@
     {
       "name": "Friend-497",
       "id": "1530155449",
-      "pictureurl": "https://graph.facebook.com/1530155449/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Family Tree DNA",
@@ -59013,7 +59013,7 @@
     {
       "name": "Friend-800",
       "id": "1530163899",
-      "pictureurl": "https://graph.facebook.com/1530163899/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Monty Python & the Holy Grail",
@@ -59117,7 +59117,7 @@
     {
       "name": "Friend-549",
       "id": "1552527655",
-      "pictureurl": "https://graph.facebook.com/1552527655/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Can this Potato get more fans than Justin Bieber",
@@ -59181,7 +59181,7 @@
     {
       "name": "Friend-299",
       "id": "1577396234",
-      "pictureurl": "https://graph.facebook.com/1577396234/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "McCall Weddings",
@@ -59317,21 +59317,21 @@
     {
       "name": "Friend-48",
       "id": "1579215985",
-      "pictureurl": "https://graph.facebook.com/1579215985/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-48",
       "id": "1775906669",
-      "pictureurl": "https://graph.facebook.com/1775906669/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-884",
       "id": "100000011373822",
-      "pictureurl": "https://graph.facebook.com/100000011373822/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Church of the Latter-Day Dude",
@@ -59587,7 +59587,7 @@
     {
       "name": "Friend-633",
       "id": "100000012137428",
-      "pictureurl": "https://graph.facebook.com/100000012137428/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Zombieland",
@@ -63723,7 +63723,7 @@
     {
       "name": "Friend-382",
       "id": "100000036402022",
-      "pictureurl": "https://graph.facebook.com/100000036402022/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Blade",
@@ -64043,7 +64043,7 @@
     {
       "name": "Friend-132",
       "id": "100000161688201",
-      "pictureurl": "https://graph.facebook.com/100000161688201/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "The Jokerr",
@@ -68507,7 +68507,7 @@
     {
       "name": "Friend-881",
       "id": "100000244057591",
-      "pictureurl": "https://graph.facebook.com/100000244057591/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Smule",
@@ -69099,7 +69099,7 @@
     {
       "name": "Friend-630",
       "id": "100000332627441",
-      "pictureurl": "https://graph.facebook.com/100000332627441/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "As I Lay Dying Official",
@@ -69187,7 +69187,7 @@
     {
       "name": "Friend-379",
       "id": "100000528819765",
-      "pictureurl": "https://graph.facebook.com/100000528819765/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Samsung Mobile USA",
@@ -69339,14 +69339,14 @@
     {
       "name": "Friend-487",
       "id": "100000605779705",
-      "pictureurl": "https://graph.facebook.com/100000605779705/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-487",
       "id": "100000679819967",
-      "pictureurl": "https://graph.facebook.com/100000679819967/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Ass Backwards",
@@ -69778,7 +69778,7 @@
     {
       "name": "Friend-877",
       "id": "100000681232705",
-      "pictureurl": "https://graph.facebook.com/100000681232705/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Idaho Home Loans",
@@ -69802,14 +69802,14 @@
     {
       "name": "Friend-985",
       "id": "100000781548406",
-      "pictureurl": "https://graph.facebook.com/100000781548406/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     },
     {
       "name": "Friend-985",
       "id": "100001400504325",
-      "pictureurl": "https://graph.facebook.com/100001400504325/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Glen Beck",
@@ -69929,7 +69929,7 @@
     {
       "name": "Friend-93",
       "id": "100001434883243",
-      "pictureurl": "https://graph.facebook.com/100001434883243/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Idaho Spine and Sports Physical Therapy",
@@ -70729,7 +70729,7 @@
     {
       "name": "Friend-679",
       "id": "100001913223891",
-      "pictureurl": "https://graph.facebook.com/100001913223891/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [
         {
           "name": "Heartland Wellness Connections",
@@ -71033,7 +71033,7 @@
     {
       "name": "Friend-428",
       "id": "100004373314046",
-      "pictureurl": "https://graph.facebook.com/100004373314046/picture?type=normal",
+      "pictureurl": "img/default.jpg",
       "likes": [],
       "likecount": 0
     }
