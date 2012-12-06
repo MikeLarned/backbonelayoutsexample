@@ -1,0 +1,79 @@
+﻿body {
+    background-color: #000;
+}
+
+#container {
+    margin-top: 20px;
+}
+
+#left {
+
+}
+
+#right {
+}
+
+.friend {
+    height: 80px;
+    width: 100px;
+    display: inline;
+    float: left;
+    opacity: 1; 
+}
+
+.dim {
+    opacity: .1;
+}
+
+.friend:hover {
+
+    box-shadow: 0 0 15px #000;
+}
+
+.likecount {
+    position: relative;
+    top: 32px;
+    left: -6px;
+    float: left;
+    padding: 3px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    font-size: 10px;
+    -moz-border-radius: 15px; 
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    min-width: 20px;
+    display: inline;
+    text-align: center;
+}
+
+.like {
+    color: white;
+    font-size: .8em;
+    background-color: #141414;
+    -moz-border-radius: 15px; 
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    width: 500px;
+    display: block;
+    padding: 5px 5px 5px 20px;
+    margin: 2px 0px 2px 0px;
+    opacity: .50;
+}
+
+.selected {
+   opacity: 1;
+}
+
+
+.category {
+    color: red;
+    padding: 0 0 0 10px;
+}
+
+.stats {
+    height: 50px;
+    border: 1px solid #141414;
+    width: 550px;
+    margin-bottom: 10px;
+}
